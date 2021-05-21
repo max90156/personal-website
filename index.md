@@ -1,4 +1,4 @@
-## Welcome to GitHub
+## Welcome to MaxHub
 
 You can use the [editor on GitHub](https://github.com/max90156/personal-website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
